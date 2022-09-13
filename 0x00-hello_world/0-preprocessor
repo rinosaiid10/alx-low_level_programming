@@ -1,2 +1,3 @@
 #!/bin/bash
 gcc -E -on c $CFILE
+gcc -E 0-main.c
